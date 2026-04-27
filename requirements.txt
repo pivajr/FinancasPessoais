@@ -1,0 +1,7 @@
+# Gerenciador de Finanças Pessoal — MVP
+# Sem dependências externas.
+# Tkinter e sqlite3 fazem parte da biblioteca padrão do Python 3.12.
+# Para instalar o ambiente virtual:
+#   python -m venv .venv
+#   source .venv/bin/activate    (Linux/macOS)
+#   .venv\Scripts\activate       (Windows)
